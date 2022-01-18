@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### Hi there, I'm Selim SEVGİ. 👋
 
 <h3 align="center">I am a newly graduated electrical and electronics engineer. Also, I improve my frontend development skills.</h3>
